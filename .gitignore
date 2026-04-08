@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+# submission files (optional, but usually researchers keep them)
+# submission.csv
+# submission_detailed.csv
